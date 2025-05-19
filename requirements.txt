@@ -1,6 +1,5 @@
-pip install --upgrade pip
-import streamlit as st
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+pip install streamlit as st
+pip install pandas as pd
+pip install numpy as np
+pip install matplotlib.pyplot as plt
+pip install seaborn as sns
