@@ -1,5 +1,5 @@
-pip install streamlit as st
-pip install pandas as pd
-pip install numpy as np
-pip install matplotlib.pyplot
-pip install seaborn as sns
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
